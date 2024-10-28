@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "903850823703",
+    "project_id": "nmitscanner",
+    "storage_bucket": "nmitscanner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903850823703:android:66adbcf6a200fd4eff0c52",
+        "android_client_info": {
+          "package_name": "com.example.nmitscanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE4jfoV2-it_m6K9cLGrlND9IToQs15w8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
